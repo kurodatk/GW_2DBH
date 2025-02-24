@@ -8,3 +8,5 @@ From left, each column denotes:
 time relative to the first bounce (i.e. usual post bounce time) [ms],
 time relative to the BH formation [ms],
 Dh+ [cm], where D and h+ are the source distance and the only non-vanishing GW strain observed along equator, respectively.
+
+Note that model R1B12 does not provide GWs from slightly before the BH formation, because of the lack of original simulation datas.
